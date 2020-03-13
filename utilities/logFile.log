@@ -1,0 +1,545 @@
+2020-03-12 05:41:03,173 :INFO :test_a_login :Login is clicked
+2020-03-12 05:41:03,744 :INFO :test_a_login :Gplus is clicked
+2020-03-12 05:41:20,344 :INFO :test_a_login :email : 
+2020-03-12 05:41:20,344 :INFO :test_a_login :kiransattal@gmail.com
+2020-03-12 05:41:22,284 :INFO :test_a_login :password : 
+2020-03-12 05:41:22,285 :INFO :test_a_login :itiscool$25
+2020-03-12 05:41:24,665 :INFO :test_a_login :Success! to Login
+2020-03-12 05:41:31,315 :INFO :add_product_in_cart :Society
+Tea
+
+2020-03-12 05:41:31,349 :INFO :add_product_in_cart :Red Label
+Tea - Natural Care
+
+2020-03-12 05:41:31,399 :INFO :add_product_in_cart :Tata Tea Gold
+Leaf Tea
+
+2020-03-12 05:41:36,679 :INFO :test_add_searched_product_to_basket :Search category :tea
+2020-03-12 05:41:36,680 :INFO :test_add_searched_product_to_basket :Search product :tata
+2020-03-12 05:41:36,680 :INFO :test_add_searched_product_to_basket :Tata Tea Gold
+Leaf TeaSuccess, Product Is  ADDED
+2020-03-12 05:41:54,599 :INFO :add_product_in_cart :bb Royal
+Organic - Moong Dal, Unpolished
+
+2020-03-12 05:41:54,599 :INFO :add_product_in_cart :bb Royal
+Organic - Moong Dal, Unpolished
+
+2020-03-12 05:41:54,633 :INFO :add_product_in_cart :Tata Sampann
+Toor Dal
+
+2020-03-12 05:41:54,633 :INFO :add_product_in_cart :Tata Sampann
+Toor Dal
+
+2020-03-12 05:41:54,662 :INFO :add_product_in_cart :bb Royal
+Organic - Chana Dal/Channa Unpolished
+
+2020-03-12 05:41:54,662 :INFO :add_product_in_cart :bb Royal
+Organic - Chana Dal/Channa Unpolished
+
+2020-03-12 05:41:59,884 :INFO :test_add_searched_product_to_basket :Search category :dal
+2020-03-12 05:41:59,884 :INFO :test_add_searched_product_to_basket :Search category :dal
+2020-03-12 05:41:59,884 :INFO :test_add_searched_product_to_basket :Search product :chana
+2020-03-12 05:41:59,884 :INFO :test_add_searched_product_to_basket :Search product :chana
+2020-03-12 05:41:59,884 :INFO :test_add_searched_product_to_basket :bb Royal
+Organic - Chana Dal/Channa UnpolishedSuccess, Product Is  ADDED
+2020-03-12 05:41:59,884 :INFO :test_add_searched_product_to_basket :bb Royal
+Organic - Chana Dal/Channa UnpolishedSuccess, Product Is  ADDED
+2020-03-12 05:42:10,429 :INFO :test_view_added_products_in_cart :Basket is clicked
+2020-03-12 05:42:11,139 :INFO :test_view_added_products_in_cart :Cart is clicked
+2020-03-12 05:52:34,681 :INFO :test_a_login :Login is clicked
+2020-03-12 05:52:34,983 :INFO :test_a_login :Gplus is clicked
+2020-03-12 05:52:51,539 :INFO :test_a_login :email : 
+2020-03-12 05:52:51,539 :INFO :test_a_login :kiransattal@gmail.com
+2020-03-12 05:52:53,404 :INFO :test_a_login :password : 
+2020-03-12 05:52:53,404 :INFO :test_a_login :itiscool$25
+2020-03-12 05:52:55,188 :INFO :test_a_login :Success! to Login
+2020-03-12 05:53:06,769 :INFO :test_add_searched_product_to_basket :Search category :tea
+2020-03-12 05:53:06,770 :INFO :test_add_searched_product_to_basket :Search product :tata
+2020-03-12 05:53:06,770 :INFO :test_add_searched_product_to_basket :Tata Tea Gold
+Leaf TeaSuccess, Product Is  ADDED
+2020-03-12 05:53:18,415 :INFO :test_add_searched_product_to_basket :Search category :dal
+2020-03-12 05:53:18,415 :INFO :test_add_searched_product_to_basket :Search category :dal
+2020-03-12 05:53:18,415 :INFO :test_add_searched_product_to_basket :Search product :chana
+2020-03-12 05:53:18,415 :INFO :test_add_searched_product_to_basket :Search product :chana
+2020-03-12 05:53:18,415 :INFO :test_add_searched_product_to_basket :bb Royal
+Organic - Chana Dal/Channa UnpolishedSuccess, Product Is  ADDED
+2020-03-12 05:53:18,415 :INFO :test_add_searched_product_to_basket :bb Royal
+Organic - Chana Dal/Channa UnpolishedSuccess, Product Is  ADDED
+2020-03-12 05:53:21,436 :INFO :test_view_added_products_in_cart :Basket is clicked
+2020-03-12 05:53:22,138 :INFO :test_view_added_products_in_cart :Cart is clicked
+2020-03-12 05:53:36,049 :INFO :test_view_added_products_in_cart :While adding : 
+2020-03-12 05:53:36,049 :INFO :test_view_added_products_in_cart :['Tata Tea Gold\nLeaf Tea', 'bb Royal\nOrganic - Chana Dal/Channa Unpolished']
+2020-03-12 05:53:36,049 :INFO :test_view_added_products_in_cart :From cart products are: 
+2020-03-12 05:53:36,049 :INFO :test_view_added_products_in_cart :['Organic - Chana Dal/Channa Unpolished 1...', 'Organic - Chana Dal/Channa Unpolished 2...', 'Leaf Tea 500 g']
+2020-03-12 05:53:36,049 :INFO :test_view_added_products_in_cart :Mismatch between cart and added products
+2020-03-12 06:07:58,924 :INFO :test_a_login :Login is clicked
+2020-03-12 06:07:59,221 :INFO :test_a_login :Gplus is clicked
+2020-03-12 06:08:15,558 :INFO :test_a_login :email : 
+2020-03-12 06:08:15,558 :INFO :test_a_login :kiransattal@gmail.com
+2020-03-12 06:08:17,391 :INFO :test_a_login :password : 
+2020-03-12 06:08:17,391 :INFO :test_a_login :itiscool$25
+2020-03-12 06:08:18,977 :INFO :test_a_login :Success! to Login
+2020-03-12 06:08:36,667 :INFO :test_add_searched_product_to_basket :Search category :tea
+2020-03-12 06:08:36,667 :INFO :test_add_searched_product_to_basket :Search product :tata
+2020-03-12 06:08:36,667 :INFO :test_add_searched_product_to_basket :Tata Tea Gold
+Leaf TeaSuccess, Product Is  ADDED
+2020-03-12 06:08:50,042 :INFO :test_add_searched_product_to_basket :Search category :dal
+2020-03-12 06:08:50,042 :INFO :test_add_searched_product_to_basket :Search category :dal
+2020-03-12 06:08:50,042 :INFO :test_add_searched_product_to_basket :Search product :chana
+2020-03-12 06:08:50,042 :INFO :test_add_searched_product_to_basket :Search product :chana
+2020-03-12 06:08:50,042 :INFO :test_add_searched_product_to_basket :bb Royal
+Organic - Chana Dal/Channa UnpolishedSuccess, Product Is  ADDED
+2020-03-12 06:08:50,042 :INFO :test_add_searched_product_to_basket :bb Royal
+Organic - Chana Dal/Channa UnpolishedSuccess, Product Is  ADDED
+2020-03-12 06:08:52,260 :INFO :test_view_added_products_in_cart :Basket is clicked
+2020-03-12 06:08:52,978 :INFO :test_view_added_products_in_cart :Cart is clicked
+2020-03-12 06:09:55,691 :INFO :test_a_login :Login is clicked
+2020-03-12 06:09:55,844 :INFO :test_a_login :Gplus is clicked
+2020-03-12 06:10:07,850 :INFO :test_a_login :Fail! to Login
+2020-03-12 06:10:49,479 :INFO :test_a_login :Login is clicked
+2020-03-12 06:10:49,793 :INFO :test_a_login :Gplus is clicked
+2020-03-12 06:11:06,177 :INFO :test_a_login :email : 
+2020-03-12 06:11:06,178 :INFO :test_a_login :kiransattal@gmail.com
+2020-03-12 06:11:08,044 :INFO :test_a_login :password : 
+2020-03-12 06:11:08,044 :INFO :test_a_login :itiscool$25
+2020-03-12 06:11:10,664 :INFO :test_a_login :Success! to Login
+2020-03-12 06:11:20,551 :INFO :test_add_searched_product_to_basket :Search category :tea
+2020-03-12 06:11:20,551 :INFO :test_add_searched_product_to_basket :Search product :tata
+2020-03-12 06:11:20,551 :INFO :test_add_searched_product_to_basket :Tata Tea Gold
+Leaf TeaSuccess, Product Is  ADDED
+2020-03-12 06:11:44,253 :INFO :test_add_searched_product_to_basket :Search category :dal
+2020-03-12 06:11:44,253 :INFO :test_add_searched_product_to_basket :Search category :dal
+2020-03-12 06:11:44,253 :INFO :test_add_searched_product_to_basket :Search product :chana
+2020-03-12 06:11:44,253 :INFO :test_add_searched_product_to_basket :Search product :chana
+2020-03-12 06:11:44,253 :INFO :test_add_searched_product_to_basket :bb Royal
+Organic - Chana Dal/Channa UnpolishedSuccess, Product Is  ADDED
+2020-03-12 06:11:44,253 :INFO :test_add_searched_product_to_basket :bb Royal
+Organic - Chana Dal/Channa UnpolishedSuccess, Product Is  ADDED
+2020-03-12 06:11:47,085 :INFO :test_view_added_products_in_cart :Basket is clicked
+2020-03-12 06:11:48,978 :INFO :test_view_added_products_in_cart :Cart is clicked
+2020-03-12 06:12:07,246 :INFO :test_view_added_products_in_cart :While adding : 
+2020-03-12 06:12:07,246 :INFO :test_view_added_products_in_cart :['Tata Tea Gold\nLeaf Tea', 'bb Royal\nOrganic - Chana Dal/Channa Unpolished']
+2020-03-12 06:12:07,246 :INFO :test_view_added_products_in_cart :From cart products are: 
+2020-03-12 06:12:07,246 :INFO :test_view_added_products_in_cart :['Organic - Chana Dal/Channa Unpolished 1...', 'Organic - Chana Dal/Channa Unpolished 2...', 'Leaf Tea 500 g']
+2020-03-12 06:12:07,246 :INFO :test_view_added_products_in_cart :Mismatch between cart and added products
+2020-03-12 06:13:38,067 :INFO :test_a_login :Login is clicked
+2020-03-12 06:13:38,342 :INFO :test_a_login :Gplus is clicked
+2020-03-12 06:13:54,737 :INFO :test_a_login :email : 
+2020-03-12 06:13:54,737 :INFO :test_a_login :kiransattal@gmail.com
+2020-03-12 06:13:56,604 :INFO :test_a_login :password : 
+2020-03-12 06:13:56,604 :INFO :test_a_login :itiscool$25
+2020-03-12 06:13:58,690 :INFO :test_a_login :Success! to Login
+2020-03-12 06:14:10,500 :INFO :test_add_searched_product_to_basket :Search category :tea
+2020-03-12 06:14:10,500 :INFO :test_add_searched_product_to_basket :Search product :tata
+2020-03-12 06:14:10,500 :INFO :test_add_searched_product_to_basket :Tata Tea Gold
+Leaf TeaSuccess, Product Is  ADDED
+2020-03-12 06:14:24,461 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-12 06:14:24,461 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-12 06:14:24,461 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-12 06:14:24,461 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-12 06:14:24,461 :INFO :test_add_searched_product_to_basket :Bru
+Instant CoffeeSuccess, Product Is  ADDED
+2020-03-12 06:14:24,461 :INFO :test_add_searched_product_to_basket :Bru
+Instant CoffeeSuccess, Product Is  ADDED
+2020-03-12 06:14:26,919 :INFO :test_view_added_products_in_cart :Basket is clicked
+2020-03-12 06:14:28,952 :INFO :test_view_added_products_in_cart :Cart is clicked
+2020-03-12 06:14:42,884 :INFO :test_view_added_products_in_cart :While adding : 
+2020-03-12 06:14:42,884 :INFO :test_view_added_products_in_cart :['Tata Tea Gold\nLeaf Tea', 'Bru\nInstant Coffee']
+2020-03-12 06:14:42,884 :INFO :test_view_added_products_in_cart :From cart products are: 
+2020-03-12 06:14:42,884 :INFO :test_view_added_products_in_cart :['Instant Coffee 2x200 g (Multipack)', 'Leaf Tea 500 g']
+2020-03-12 06:14:42,884 :INFO :test_view_added_products_in_cart :Cleaning the cart for next test run
+2020-03-12 06:20:36,686 :INFO :test_a_login :Login is clicked
+2020-03-12 06:20:36,969 :INFO :test_a_login :Gplus is clicked
+2020-03-12 06:20:53,504 :INFO :test_a_login :email : 
+2020-03-12 06:20:53,504 :INFO :test_a_login :kiransattal@gmail.com
+2020-03-12 06:20:55,353 :INFO :test_a_login :password : 
+2020-03-12 06:20:55,354 :INFO :test_a_login :itiscool$25
+2020-03-12 06:20:57,438 :INFO :test_a_login :Success! to Login
+2020-03-12 06:21:13,684 :INFO :test_add_searched_product_to_basket :Search category :tea
+2020-03-12 06:21:13,684 :INFO :test_add_searched_product_to_basket :Search product :tata
+2020-03-12 06:21:13,684 :INFO :test_add_searched_product_to_basket :Tata Tea Gold
+Leaf TeaSuccess, Product Is  ADDED
+2020-03-12 06:21:28,243 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-12 06:21:28,243 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-12 06:21:28,244 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-12 06:21:28,244 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-12 06:21:28,244 :INFO :test_add_searched_product_to_basket :Bru
+Instant CoffeeSuccess, Product Is  ADDED
+2020-03-12 06:21:28,244 :INFO :test_add_searched_product_to_basket :Bru
+Instant CoffeeSuccess, Product Is  ADDED
+2020-03-12 06:21:31,684 :INFO :test_view_added_products_in_cart :Basket is clicked
+2020-03-12 06:21:32,750 :INFO :test_view_added_products_in_cart :Cart is clicked
+2020-03-12 06:21:58,390 :INFO :test_view_added_products_in_cart :While adding : 
+2020-03-12 06:21:58,391 :INFO :test_view_added_products_in_cart :['Tata Tea Gold\nLeaf Tea', 'Bru\nInstant Coffee']
+2020-03-12 06:21:58,391 :INFO :test_view_added_products_in_cart :From cart products are: 
+2020-03-12 06:21:58,391 :INFO :test_view_added_products_in_cart :['Instant Coffee 2x200 g (Multipack)', 'Leaf Tea 500 g']
+2020-03-12 06:21:58,391 :INFO :test_view_added_products_in_cart :Added searched products and products in the cart are same
+2020-03-12 06:21:58,391 :INFO :test_view_added_products_in_cart :Cleaning the cart for next test run
+2020-03-12 06:21:58,532 :INFO :remove_added_products_from_cart :Products are successfully removed from the cart
+2020-03-12 06:24:38,558 :INFO :test_a_login :Login is clicked
+2020-03-12 06:24:38,953 :INFO :test_a_login :Gplus is clicked
+2020-03-12 06:24:55,310 :INFO :test_a_login :email : 
+2020-03-12 06:24:55,310 :INFO :test_a_login :kiransattal@gmail.com
+2020-03-12 06:24:57,155 :INFO :test_a_login :password : 
+2020-03-12 06:24:57,155 :INFO :test_a_login :itiscool$25
+2020-03-12 06:24:59,288 :INFO :test_a_login :Success! to Login
+2020-03-12 06:25:10,041 :INFO :test_add_searched_product_to_basket :Search category :tea
+2020-03-12 06:25:10,041 :INFO :test_add_searched_product_to_basket :Search product :tata
+2020-03-12 06:25:10,041 :INFO :test_add_searched_product_to_basket :Tata Tea Gold
+Leaf TeaSuccess, Product Is  ADDED
+2020-03-12 06:25:23,853 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-12 06:25:23,853 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-12 06:25:23,853 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-12 06:25:23,853 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-12 06:25:23,853 :INFO :test_add_searched_product_to_basket :Bru
+Instant CoffeeSuccess, Product Is  ADDED
+2020-03-12 06:25:23,853 :INFO :test_add_searched_product_to_basket :Bru
+Instant CoffeeSuccess, Product Is  ADDED
+2020-03-12 06:25:26,016 :INFO :test_view_added_products_in_cart :Basket is clicked
+2020-03-12 06:25:26,718 :INFO :test_view_added_products_in_cart :Cart is clicked
+2020-03-12 06:26:36,277 :INFO :test_a_login :Login is clicked
+2020-03-12 06:26:36,711 :INFO :test_a_login :Gplus is clicked
+2020-03-12 06:26:53,073 :INFO :test_a_login :email : 
+2020-03-12 06:26:53,073 :INFO :test_a_login :kiransattal@gmail.com
+2020-03-12 06:26:54,926 :INFO :test_a_login :password : 
+2020-03-12 06:26:54,926 :INFO :test_a_login :itiscool$25
+2020-03-12 06:26:58,871 :INFO :test_a_login :Success! to Login
+2020-03-12 06:27:10,191 :INFO :test_add_searched_product_to_basket :Search category :tea
+2020-03-12 06:27:10,191 :INFO :test_add_searched_product_to_basket :Search product :tata
+2020-03-12 06:27:10,191 :INFO :test_add_searched_product_to_basket :Tata Tea Gold
+Leaf TeaSuccess, Product Is  ADDED
+2020-03-12 06:27:23,941 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-12 06:27:23,941 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-12 06:27:23,941 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-12 06:27:23,941 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-12 06:27:23,941 :INFO :test_add_searched_product_to_basket :Bru
+Instant CoffeeSuccess, Product Is  ADDED
+2020-03-12 06:27:23,941 :INFO :test_add_searched_product_to_basket :Bru
+Instant CoffeeSuccess, Product Is  ADDED
+2020-03-12 06:27:26,403 :INFO :test_view_added_products_in_cart :Basket is clicked
+2020-03-12 06:27:28,164 :INFO :test_view_added_products_in_cart :Cart is clicked
+2020-03-12 06:29:13,812 :INFO :test_a_login :Login is clicked
+2020-03-12 06:29:14,075 :INFO :test_a_login :Gplus is clicked
+2020-03-12 06:29:30,491 :INFO :test_a_login :email : 
+2020-03-12 06:29:30,491 :INFO :test_a_login :kiransattal@gmail.com
+2020-03-12 06:29:31,972 :INFO :test_a_login :password : 
+2020-03-12 06:29:31,972 :INFO :test_a_login :itiscool$25
+2020-03-12 06:29:33,655 :INFO :test_a_login :Success! to Login
+2020-03-12 06:29:44,694 :INFO :test_add_searched_product_to_basket :Search category :tea
+2020-03-12 06:29:44,695 :INFO :test_add_searched_product_to_basket :Search product :tata
+2020-03-12 06:29:44,695 :INFO :test_add_searched_product_to_basket :Tata Tea Gold
+Leaf TeaSuccess, Product Is  ADDED
+2020-03-12 06:29:56,403 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-12 06:29:56,403 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-12 06:29:56,403 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-12 06:29:56,403 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-12 06:29:56,403 :INFO :test_add_searched_product_to_basket :Bru
+Instant CoffeeSuccess, Product Is  ADDED
+2020-03-12 06:29:56,403 :INFO :test_add_searched_product_to_basket :Bru
+Instant CoffeeSuccess, Product Is  ADDED
+2020-03-12 06:29:58,134 :INFO :test_view_added_products_in_cart :Basket is clicked
+2020-03-12 06:29:58,866 :INFO :test_view_added_products_in_cart :Cart is clicked
+2020-03-12 06:33:34,161 :INFO :test_a_login :Login is clicked
+2020-03-12 06:33:34,586 :INFO :test_a_login :Gplus is clicked
+2020-03-12 06:33:50,974 :INFO :test_a_login :email : 
+2020-03-12 06:33:50,975 :INFO :test_a_login :kiransattal@gmail.com
+2020-03-12 06:33:52,788 :INFO :test_a_login :password : 
+2020-03-12 06:33:52,789 :INFO :test_a_login :itiscool$25
+2020-03-12 06:33:55,284 :INFO :test_a_login :Success! to Login
+2020-03-12 06:34:07,687 :INFO :test_add_searched_product_to_basket :Search category :tea
+2020-03-12 06:34:07,687 :INFO :test_add_searched_product_to_basket :Search product :tata
+2020-03-12 06:34:07,687 :INFO :test_add_searched_product_to_basket :Tata Tea Gold
+Leaf TeaSuccess, Product Is  ADDED
+2020-03-12 06:34:18,426 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-12 06:34:18,426 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-12 06:34:18,426 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-12 06:34:18,426 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-12 06:34:18,426 :INFO :test_add_searched_product_to_basket :Bru
+Instant CoffeeSuccess, Product Is  ADDED
+2020-03-12 06:34:18,426 :INFO :test_add_searched_product_to_basket :Bru
+Instant CoffeeSuccess, Product Is  ADDED
+2020-03-12 06:34:21,450 :INFO :test_view_added_products_in_cart :Basket is clicked
+2020-03-12 06:34:23,087 :INFO :test_view_added_products_in_cart :Cart is clicked
+2020-03-12 06:37:29,368 :INFO :test_a_login :Login is clicked
+2020-03-12 06:37:29,891 :INFO :test_a_login :Gplus is clicked
+2020-03-12 06:38:29,570 :INFO :test_a_login :Login is clicked
+2020-03-12 06:38:29,866 :INFO :test_a_login :Gplus is clicked
+2020-03-12 06:38:46,234 :INFO :test_a_login :email : 
+2020-03-12 06:38:46,234 :INFO :test_a_login :kiransattal@gmail.com
+2020-03-12 06:38:48,089 :INFO :test_a_login :password : 
+2020-03-12 06:38:48,089 :INFO :test_a_login :itiscool$25
+2020-03-12 06:38:50,338 :INFO :test_a_login :Success! to Login
+2020-03-12 06:39:00,350 :INFO :test_add_searched_product_to_basket :Search category :tea
+2020-03-12 06:39:00,350 :INFO :test_add_searched_product_to_basket :Search product :tata
+2020-03-12 06:39:00,350 :INFO :test_add_searched_product_to_basket :Tata Tea Gold
+Leaf TeaSuccess, Product Is  ADDED
+2020-03-12 06:39:10,909 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-12 06:39:10,909 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-12 06:39:10,909 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-12 06:39:10,909 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-12 06:39:10,910 :INFO :test_add_searched_product_to_basket :Bru
+Instant CoffeeSuccess, Product Is  ADDED
+2020-03-12 06:39:10,910 :INFO :test_add_searched_product_to_basket :Bru
+Instant CoffeeSuccess, Product Is  ADDED
+2020-03-12 06:39:15,134 :INFO :test_view_added_products_in_cart :Basket is clicked
+2020-03-12 06:39:15,731 :INFO :test_view_added_products_in_cart :Cart is clicked
+2020-03-13 00:31:06,321 :INFO :test_a_login :Login is clicked
+2020-03-13 00:31:06,614 :INFO :test_a_login :Gplus is clicked
+2020-03-13 00:31:22,988 :INFO :test_a_login :email : 
+2020-03-13 00:31:22,989 :INFO :test_a_login :kiransattal@gmail.com
+2020-03-13 00:31:24,819 :INFO :test_a_login :password : 
+2020-03-13 00:31:24,820 :INFO :test_a_login :itiscool$25
+2020-03-13 00:31:27,025 :INFO :test_a_login :Success! to Login
+2020-03-13 00:31:36,190 :INFO :test_add_searched_product_to_basket :Search category :tea
+2020-03-13 00:31:36,190 :INFO :test_add_searched_product_to_basket :Search product :tata
+2020-03-13 00:31:36,190 :INFO :test_add_searched_product_to_basket :Tata Tea Gold
+Leaf TeaSuccess, Product Is  ADDED
+2020-03-13 00:31:47,414 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-13 00:31:47,414 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-13 00:31:47,415 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-13 00:31:47,415 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-13 00:31:47,415 :INFO :test_add_searched_product_to_basket :Bru
+Instant CoffeeSuccess, Product Is  ADDED
+2020-03-13 00:31:47,415 :INFO :test_add_searched_product_to_basket :Bru
+Instant CoffeeSuccess, Product Is  ADDED
+2020-03-13 00:31:50,997 :INFO :test_view_added_products_in_cart :Basket is clicked
+2020-03-13 00:31:51,916 :INFO :test_view_added_products_in_cart :Cart is clicked
+2020-03-13 00:38:11,235 :INFO :test_a_login :Login is clicked
+2020-03-13 00:38:11,512 :INFO :test_a_login :Gplus is clicked
+2020-03-13 00:38:28,133 :INFO :test_a_login :email : 
+2020-03-13 00:38:28,134 :INFO :test_a_login :kiransattal@gmail.com
+2020-03-13 00:38:29,978 :INFO :test_a_login :password : 
+2020-03-13 00:38:29,978 :INFO :test_a_login :itiscool$25
+2020-03-13 00:38:31,993 :INFO :test_a_login :Success! to Login
+2020-03-13 00:38:41,334 :INFO :test_add_searched_product_to_basket :Search category :tea
+2020-03-13 00:38:41,335 :INFO :test_add_searched_product_to_basket :Search product :tata
+2020-03-13 00:38:41,335 :INFO :test_add_searched_product_to_basket :Tata Tea Gold
+Leaf TeaSuccess, Product Is  ADDED
+2020-03-13 00:38:53,978 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-13 00:38:53,978 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-13 00:38:53,978 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-13 00:38:53,978 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-13 00:38:53,978 :INFO :test_add_searched_product_to_basket :Bru
+Instant CoffeeSuccess, Product Is  ADDED
+2020-03-13 00:38:53,978 :INFO :test_add_searched_product_to_basket :Bru
+Instant CoffeeSuccess, Product Is  ADDED
+2020-03-13 00:38:56,374 :INFO :test_view_added_products_in_cart :Basket is clicked
+2020-03-13 00:38:58,114 :INFO :test_view_added_products_in_cart :Cart is clicked
+2020-03-13 00:41:11,194 :INFO :test_a_login :Login is clicked
+2020-03-13 00:41:11,576 :INFO :test_a_login :Gplus is clicked
+2020-03-13 00:41:27,966 :INFO :test_a_login :email : 
+2020-03-13 00:41:27,966 :INFO :test_a_login :kiransattal@gmail.com
+2020-03-13 00:41:29,842 :INFO :test_a_login :password : 
+2020-03-13 00:41:29,842 :INFO :test_a_login :itiscool$25
+2020-03-13 00:41:32,222 :INFO :test_a_login :Success! to Login
+2020-03-13 00:41:42,679 :INFO :test_add_searched_product_to_basket :Search category :tea
+2020-03-13 00:41:42,679 :INFO :test_add_searched_product_to_basket :Search product :tata
+2020-03-13 00:41:42,679 :INFO :test_add_searched_product_to_basket :Tata Tea Gold
+Leaf TeaSuccess, Product Is  ADDED
+2020-03-13 00:41:54,985 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-13 00:41:54,985 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-13 00:41:54,985 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-13 00:41:54,985 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-13 00:41:54,986 :INFO :test_add_searched_product_to_basket :Bru
+Instant CoffeeSuccess, Product Is  ADDED
+2020-03-13 00:41:54,986 :INFO :test_add_searched_product_to_basket :Bru
+Instant CoffeeSuccess, Product Is  ADDED
+2020-03-13 00:41:57,280 :INFO :test_view_added_products_in_cart :Basket is clicked
+2020-03-13 00:41:59,110 :INFO :test_view_added_products_in_cart :Cart is clicked
+2020-03-13 00:42:12,345 :INFO :test_view_added_products_in_cart :While adding : 
+2020-03-13 00:42:12,345 :INFO :test_view_added_products_in_cart :['Tata Tea Gold\nLeaf Tea', 'Bru\nInstant Coffee']
+2020-03-13 00:42:12,345 :INFO :test_view_added_products_in_cart :From cart products are: 
+2020-03-13 00:42:12,346 :INFO :test_view_added_products_in_cart :['', 'BB ROYAL\nMoong - Green, Whole/Sabut 500 g Pouch', 'BRU\nInstant Coffee 2x200 g (Multipack)', 'Bru\nInstant Coffee', 'NESCAFE\nClassic Coffee Powder 50 g Sachet', 'TATA TEA GOLD\nLeaf Tea 500 g']
+2020-03-13 00:42:12,346 :INFO :test_view_added_products_in_cart :Mismatch between cart and added products
+2020-03-13 00:44:10,336 :INFO :test_a_login :Login is clicked
+2020-03-13 00:44:10,928 :INFO :test_a_login :Gplus is clicked
+2020-03-13 00:44:27,311 :INFO :test_a_login :email : 
+2020-03-13 00:44:27,311 :INFO :test_a_login :kiransattal@gmail.com
+2020-03-13 00:44:29,142 :INFO :test_a_login :password : 
+2020-03-13 00:44:29,142 :INFO :test_a_login :itiscool$25
+2020-03-13 00:44:30,733 :INFO :test_a_login :Success! to Login
+2020-03-13 00:44:41,212 :INFO :test_add_searched_product_to_basket :Search category :tea
+2020-03-13 00:44:41,213 :INFO :test_add_searched_product_to_basket :Search product :tata
+2020-03-13 00:44:41,213 :INFO :test_add_searched_product_to_basket :Tata Tea Gold
+Leaf TeaSuccess, Product Is  ADDED
+2020-03-13 00:44:53,130 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-13 00:44:53,130 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-13 00:44:53,130 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-13 00:44:53,130 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-13 00:44:53,131 :INFO :test_add_searched_product_to_basket :Bru
+Instant CoffeeSuccess, Product Is  ADDED
+2020-03-13 00:44:53,131 :INFO :test_add_searched_product_to_basket :Bru
+Instant CoffeeSuccess, Product Is  ADDED
+2020-03-13 00:44:56,702 :INFO :test_view_added_products_in_cart :Basket is clicked
+2020-03-13 00:44:58,456 :INFO :test_view_added_products_in_cart :Cart is clicked
+2020-03-13 00:45:09,842 :INFO :test_view_added_products_in_cart :While adding : 
+2020-03-13 00:45:09,842 :INFO :test_view_added_products_in_cart :['Tata Tea Gold\nLeaf Tea', 'Bru\nInstant Coffee']
+2020-03-13 00:45:09,842 :INFO :test_view_added_products_in_cart :From cart products are: 
+2020-03-13 00:45:09,842 :INFO :test_view_added_products_in_cart :['', 'BRU\nInstant Coffee 2x200 g (Multipack)', 'Bru\nInstant Coffee', 'TATA TEA GOLD\nLeaf Tea 500 g']
+2020-03-13 00:45:09,842 :INFO :test_view_added_products_in_cart :Mismatch between cart and added products
+2020-03-13 00:48:59,275 :INFO :test_a_login :Login is clicked
+2020-03-13 00:48:59,538 :INFO :test_a_login :Gplus is clicked
+2020-03-13 00:49:15,896 :INFO :test_a_login :email : 
+2020-03-13 00:49:15,896 :INFO :test_a_login :kiransattal@gmail.com
+2020-03-13 00:49:17,429 :INFO :test_a_login :password : 
+2020-03-13 00:49:17,429 :INFO :test_a_login :itiscool$25
+2020-03-13 00:49:19,094 :INFO :test_a_login :Success! to Login
+2020-03-13 00:49:29,772 :INFO :test_add_searched_product_to_basket :Search category :tea
+2020-03-13 00:49:29,772 :INFO :test_add_searched_product_to_basket :Search product :tata
+2020-03-13 00:49:29,773 :INFO :test_add_searched_product_to_basket :Tata Tea Gold
+Leaf TeaSuccess, Product Is  ADDED
+2020-03-13 00:49:42,791 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-13 00:49:42,791 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-13 00:49:42,792 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-13 00:49:42,792 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-13 00:49:42,792 :INFO :test_add_searched_product_to_basket :Bru
+Instant CoffeeSuccess, Product Is  ADDED
+2020-03-13 00:49:42,792 :INFO :test_add_searched_product_to_basket :Bru
+Instant CoffeeSuccess, Product Is  ADDED
+2020-03-13 00:49:45,290 :INFO :test_view_added_products_in_cart :Basket is clicked
+2020-03-13 00:49:46,853 :INFO :test_view_added_products_in_cart :Cart is clicked
+2020-03-13 00:49:58,446 :INFO :test_view_added_products_in_cart :While adding : 
+2020-03-13 00:49:58,446 :INFO :test_view_added_products_in_cart :['Tata Tea Gold\nLeaf Tea', 'Bru\nInstant Coffee']
+2020-03-13 00:49:58,446 :INFO :test_view_added_products_in_cart :From cart products are: 
+2020-03-13 00:49:58,446 :INFO :test_view_added_products_in_cart :['Instant Coffee 2x200 g (Multipack)', 'Leaf Tea 500 g']
+2020-03-13 00:49:58,446 :INFO :test_view_added_products_in_cart :Added searched products and products in the cart are same
+2020-03-13 00:49:58,446 :INFO :test_view_added_products_in_cart :Cleaning the cart for next test run
+2020-03-13 00:49:58,653 :INFO :remove_added_products_from_cart :Products are successfully removed from the cart
+2020-03-13 00:54:00,895 :INFO :test_a_login :Login is clicked
+2020-03-13 00:54:01,065 :INFO :test_a_login :Gplus is clicked
+2020-03-13 00:54:13,073 :INFO :test_a_login :Fail! to Login
+2020-03-13 00:54:37,917 :INFO :test_a_login :Login is clicked
+2020-03-13 00:54:38,187 :INFO :test_a_login :Gplus is clicked
+2020-03-13 00:54:54,737 :INFO :test_a_login :email : 
+2020-03-13 00:54:54,737 :INFO :test_a_login :kiransattal@gmail.com
+2020-03-13 00:54:56,623 :INFO :test_a_login :password : 
+2020-03-13 00:54:56,623 :INFO :test_a_login :itiscool$25
+2020-03-13 00:54:58,050 :INFO :test_a_login :Success! to Login
+2020-03-13 00:55:09,640 :INFO :test_add_searched_product_to_basket :Search category :tea
+2020-03-13 00:55:09,640 :INFO :test_add_searched_product_to_basket :Search product :tata
+2020-03-13 00:55:09,640 :INFO :test_add_searched_product_to_basket :Green Tea - TulsiSuccess, Product Is  ADDED
+2020-03-13 00:55:21,275 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-13 00:55:21,275 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-13 00:55:21,275 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-13 00:55:21,275 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-13 00:55:21,275 :INFO :test_add_searched_product_to_basket :Instant CoffeeSuccess, Product Is  ADDED
+2020-03-13 00:55:21,275 :INFO :test_add_searched_product_to_basket :Instant CoffeeSuccess, Product Is  ADDED
+2020-03-13 00:55:24,703 :INFO :test_view_added_products_in_cart :Basket is clicked
+2020-03-13 00:55:25,719 :INFO :test_view_added_products_in_cart :Cart is clicked
+2020-03-13 00:55:39,312 :INFO :test_view_added_products_in_cart :While adding : 
+2020-03-13 00:55:39,312 :INFO :test_view_added_products_in_cart :['Green Tea - Tulsi', 'Instant Coffee']
+2020-03-13 00:55:39,312 :INFO :test_view_added_products_in_cart :From cart products are: 
+2020-03-13 00:55:39,312 :INFO :test_view_added_products_in_cart :['Instant Coffee 2x200 g (Multipack)', 'Green Tea - Tulsi 50 g ((25 Bags x 2 g...']
+2020-03-13 00:55:39,312 :INFO :test_view_added_products_in_cart :Added searched products and products in the cart are same
+2020-03-13 00:55:39,313 :INFO :test_view_added_products_in_cart :Cleaning the cart for next test run
+2020-03-13 00:55:39,402 :INFO :remove_added_products_from_cart :Products are successfully removed from the cart
+2020-03-13 01:00:55,206 :INFO :test_a_login :Login is clicked
+2020-03-13 01:00:55,513 :INFO :test_a_login :Gplus is clicked
+2020-03-13 01:01:11,874 :INFO :test_a_login :email : 
+2020-03-13 01:01:11,875 :INFO :test_a_login :kiransattal@gmail.com
+2020-03-13 01:01:13,321 :INFO :test_a_login :password : 
+2020-03-13 01:01:13,321 :INFO :test_a_login :itiscool$25
+2020-03-13 01:01:15,575 :INFO :test_a_login :Success! to Login
+2020-03-13 01:01:26,981 :INFO :test_add_searched_product_to_basket :Search category :tea
+2020-03-13 01:01:26,981 :INFO :test_add_searched_product_to_basket :Search product :tata
+2020-03-13 01:01:26,982 :INFO :test_add_searched_product_to_basket :Green Tea - TulsiSuccess, Product Is  ADDED
+2020-03-13 01:01:39,118 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-13 01:01:39,118 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-13 01:01:39,119 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-13 01:01:39,119 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-13 01:01:39,119 :INFO :test_add_searched_product_to_basket :Instant CoffeeSuccess, Product Is  ADDED
+2020-03-13 01:01:39,119 :INFO :test_add_searched_product_to_basket :Instant CoffeeSuccess, Product Is  ADDED
+2020-03-13 01:01:40,987 :INFO :test_view_added_products_in_cart :Basket is clicked
+2020-03-13 01:01:41,721 :INFO :test_view_added_products_in_cart :Cart is clicked
+2020-03-13 01:01:45,185 :INFO :return_added_products :Returning products from cart
+2020-03-13 01:01:52,467 :INFO :return_added_products :Products in the cart are visible by driver
+2020-03-13 01:03:45,159 :INFO :test_a_login :Login is clicked
+2020-03-13 01:03:45,433 :INFO :test_a_login :Gplus is clicked
+2020-03-13 01:04:01,815 :INFO :test_a_login :email : 
+2020-03-13 01:04:01,815 :INFO :test_a_login :kiransattal@gmail.com
+2020-03-13 01:04:03,647 :INFO :test_a_login :password : 
+2020-03-13 01:04:03,647 :INFO :test_a_login :itiscool$25
+2020-03-13 01:04:05,951 :INFO :test_a_login :Success! to Login
+2020-03-13 01:04:17,225 :INFO :test_add_searched_product_to_basket :Search category :tea
+2020-03-13 01:04:17,225 :INFO :test_add_searched_product_to_basket :Search product :tata
+2020-03-13 01:04:17,225 :INFO :test_add_searched_product_to_basket :Green Tea - TulsiSuccess, Product Is  ADDED
+2020-03-13 01:04:27,682 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-13 01:04:27,682 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-13 01:04:27,682 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-13 01:04:27,682 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-13 01:04:27,682 :INFO :test_add_searched_product_to_basket :Instant CoffeeSuccess, Product Is  ADDED
+2020-03-13 01:04:27,682 :INFO :test_add_searched_product_to_basket :Instant CoffeeSuccess, Product Is  ADDED
+2020-03-13 01:04:30,063 :INFO :test_view_added_products_in_cart :Basket is clicked
+2020-03-13 01:04:31,832 :INFO :test_view_added_products_in_cart :Cart is clicked
+2020-03-13 01:04:34,691 :INFO :return_added_products :Returning products from cart
+2020-03-13 01:04:41,960 :INFO :return_added_products :Products in the cart are visible by driver
+2020-03-13 01:04:44,231 :INFO :return_added_products :4products are found
+2020-03-13 01:04:44,602 :INFO :return_added_products :Instant Coffee 200 g Pouch
+2020-03-13 01:04:44,766 :INFO :return_added_products :Instant Coffee 2x200 g (Multipack)
+2020-03-13 01:04:44,790 :INFO :return_added_products :Leaf Tea 500 g
+2020-03-13 01:04:44,811 :INFO :return_added_products :Green Tea - Tulsi 50 g ((25 Bags x 2 g...
+2020-03-13 01:04:44,811 :INFO :test_view_added_products_in_cart :While adding : 
+2020-03-13 01:04:44,811 :INFO :test_view_added_products_in_cart :['Green Tea - Tulsi', 'Instant Coffee']
+2020-03-13 01:04:44,811 :INFO :test_view_added_products_in_cart :From cart products are: 
+2020-03-13 01:04:44,811 :INFO :test_view_added_products_in_cart :['Instant Coffee 200 g Pouch', 'Instant Coffee 2x200 g (Multipack)', 'Leaf Tea 500 g', 'Green Tea - Tulsi 50 g ((25 Bags x 2 g...']
+2020-03-13 01:04:44,811 :INFO :test_view_added_products_in_cart :Mismatch between cart and added products
+2020-03-13 01:06:22,189 :INFO :test_a_login :Login is clicked
+2020-03-13 01:06:22,480 :INFO :test_a_login :Gplus is clicked
+2020-03-13 01:06:39,010 :INFO :test_a_login :email : 
+2020-03-13 01:06:39,010 :INFO :test_a_login :kiransattal@gmail.com
+2020-03-13 01:06:40,897 :INFO :test_a_login :password : 
+2020-03-13 01:06:40,897 :INFO :test_a_login :itiscool$25
+2020-03-13 01:06:43,404 :INFO :test_a_login :Success! to Login
+2020-03-13 01:06:54,861 :INFO :test_add_searched_product_to_basket :Search category :tea
+2020-03-13 01:06:54,861 :INFO :test_add_searched_product_to_basket :Search product :tata
+2020-03-13 01:06:54,861 :INFO :test_add_searched_product_to_basket :Green Tea - TulsiSuccess, Product Is  ADDED
+2020-03-13 01:07:06,566 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-13 01:07:06,566 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-13 01:07:06,567 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-13 01:07:06,567 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-13 01:07:06,567 :INFO :test_add_searched_product_to_basket :Instant CoffeeSuccess, Product Is  ADDED
+2020-03-13 01:07:06,567 :INFO :test_add_searched_product_to_basket :Instant CoffeeSuccess, Product Is  ADDED
+2020-03-13 01:07:10,404 :INFO :test_view_added_products_in_cart :Basket is clicked
+2020-03-13 01:07:11,394 :INFO :test_view_added_products_in_cart :Cart is clicked
+2020-03-13 01:07:14,079 :INFO :return_added_products :Returning products from cart
+2020-03-13 01:07:25,846 :INFO :return_added_products :Products in the cart are visible by driver
+2020-03-13 01:07:25,857 :INFO :return_added_products :2products are found
+2020-03-13 01:07:25,872 :INFO :return_added_products :Instant Coffee 2x200 g (Multipack)
+2020-03-13 01:07:25,893 :INFO :return_added_products :Green Tea - Tulsi 50 g ((25 Bags x 2 g...
+2020-03-13 01:07:25,902 :INFO :test_view_added_products_in_cart :While adding : 
+2020-03-13 01:07:25,903 :INFO :test_view_added_products_in_cart :['Green Tea - Tulsi', 'Instant Coffee']
+2020-03-13 01:07:25,903 :INFO :test_view_added_products_in_cart :From cart products are: 
+2020-03-13 01:07:25,903 :INFO :test_view_added_products_in_cart :['Instant Coffee 2x200 g (Multipack)', 'Green Tea - Tulsi 50 g ((25 Bags x 2 g...']
+2020-03-13 01:07:25,903 :INFO :test_view_added_products_in_cart :Added searched products and products in the cart are same
+2020-03-13 01:07:25,903 :INFO :test_view_added_products_in_cart :Cleaning the cart for next test run
+2020-03-13 01:07:26,006 :INFO :remove_added_products_from_cart :Products are successfully removed from the cart
+2020-03-13 01:09:51,105 :INFO :test_a_login :Login is clicked
+2020-03-13 01:09:51,448 :INFO :test_a_login :Gplus is clicked
+2020-03-13 01:10:07,839 :INFO :test_a_login :email : 
+2020-03-13 01:10:07,839 :INFO :test_a_login :kiransattal@gmail.com
+2020-03-13 01:10:09,342 :INFO :test_a_login :password : 
+2020-03-13 01:10:09,342 :INFO :test_a_login :itiscool$25
+2020-03-13 01:10:12,643 :INFO :test_a_login :Success! to Login
+2020-03-13 01:10:24,050 :INFO :test_add_searched_product_to_basket :Search category :tea
+2020-03-13 01:10:24,050 :INFO :test_add_searched_product_to_basket :Search product :tata
+2020-03-13 01:10:24,050 :INFO :test_add_searched_product_to_basket :Green Tea - TulsiSuccess, Product Is  ADDED
+2020-03-13 01:10:37,098 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-13 01:10:37,098 :INFO :test_add_searched_product_to_basket :Search category :coffee
+2020-03-13 01:10:37,098 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-13 01:10:37,098 :INFO :test_add_searched_product_to_basket :Search product :instant
+2020-03-13 01:10:37,098 :INFO :test_add_searched_product_to_basket :Instant CoffeeSuccess, Product Is  ADDED
+2020-03-13 01:10:37,098 :INFO :test_add_searched_product_to_basket :Instant CoffeeSuccess, Product Is  ADDED
+2020-03-13 01:10:41,250 :INFO :test_view_added_products_in_cart :Basket is clicked
+2020-03-13 01:10:42,315 :INFO :test_view_added_products_in_cart :Cart is clicked
+2020-03-13 01:10:45,053 :INFO :return_added_products :Returning products from cart
+2020-03-13 01:10:56,196 :INFO :return_added_products :Products in the cart are visible by driver
+2020-03-13 01:10:56,206 :INFO :return_added_products :2products are found
+2020-03-13 01:10:56,219 :INFO :return_added_products :Instant Coffee 2x200 g (Multipack)
+2020-03-13 01:10:56,240 :INFO :return_added_products :Green Tea - Tulsi 50 g ((25 Bags x 2 g...
+2020-03-13 01:10:56,247 :INFO :test_view_added_products_in_cart :While adding : 
+2020-03-13 01:10:56,247 :INFO :test_view_added_products_in_cart :['Green Tea - Tulsi', 'Instant Coffee']
+2020-03-13 01:10:56,247 :INFO :test_view_added_products_in_cart :From cart products are: 
+2020-03-13 01:10:56,248 :INFO :test_view_added_products_in_cart :['Instant Coffee 2x200 g (Multipack)', 'Green Tea - Tulsi 50 g ((25 Bags x 2 g...']
+2020-03-13 01:10:56,248 :INFO :test_view_added_products_in_cart :Added searched products and products in the cart are same
+2020-03-13 01:10:56,248 :INFO :test_view_added_products_in_cart :Cleaning the cart for next test run
+2020-03-13 01:10:59,880 :INFO :remove_added_products_from_cart :Products are successfully removed from the cart
